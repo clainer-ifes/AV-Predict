@@ -1,12 +1,12 @@
 AV-Predict: Multi-Model Software for Predicting Turbidity Reduction Using Aloe vera
 
 Authors:
-- Danieli Soares de Oliveira (Federal Institute of Espírito Santo - campus Cariacica)
 - Clainer Bravin Donadel (Federal Institute of Espírito Santo - campus Vitória)
+- Danieli Soares de Oliveira (Federal Institute of Espírito Santo - campus Cariacica)
 
 Contact Information:
-- danieli@ifes.edu.br
 - cdonadel@ifes.edu.br
+- danieli@ifes.edu.br
 
 Introduction:
 AV-Predict is a Python-based computational tool developed to predict turbidity reduction efficiency in jar test experiments using Aloe vera as a natural coagulant.
